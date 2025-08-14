@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Arcane Sky  
+# Hi there 👋, I'm Mikarlo F.  
 
 🚀 **Full-Stack Developer | Cloud Enthusiast | Problem Solver**  
 
@@ -40,9 +40,9 @@ Currently, I’m diving deep into **AWS** as I prepare for my **AWS Developer As
 
 ## 📊 GitHub Stats & Activity  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArcaneSky&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaneSky&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ArcaneSky&theme=radical&border_radius=5)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikarlo29&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikarlo29&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Mikarlo29&theme=radical&border_radius=5)  
 
 ---
 
