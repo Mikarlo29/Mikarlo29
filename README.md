@@ -47,9 +47,7 @@ Currently, I’m diving deep into **AWS** as I prepare for my **AWS Developer As
 ---
 
 ## 💬 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-LINK)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mikarlofrancis.dev)  
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
